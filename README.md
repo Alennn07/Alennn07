@@ -45,7 +45,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alennn07/Alennn07/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Alennn07/Alennn07/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
