@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alennn07</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Passionate+about+learning;Lover+of+tech+and+design;Still+figuring+it+all+out..." />
+  <img src="https://raw.githubusercontent.com/Alennn07/Alennn07/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
