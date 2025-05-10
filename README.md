@@ -14,7 +14,7 @@
 
 ### 📫 How to reach me: 
 
-[Email](work.with.alen07@gmail.com)
+[Email] (work.with.alen07@gmail.com)
 
 ---
 
